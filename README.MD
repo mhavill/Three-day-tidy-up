@@ -22,4 +22,10 @@ I decided to dedicate my mobile bench to the machine but to share it with my 3D 
 
 ![Initial Setup](./images/IMG_3889.HEIC)
 
-[Assembly](https://youtu.be/Rip-IDQhKRQ)
+[Assembly - part 1](https://youtu.be/Rip-IDQhKRQ)
+[Assembly - part 2](https://youtu.be/sWca06nICo0)
+[Assembly - part 3](https://youtu.be/u4nsY6Cjvho)
+[Assembly - part 4](https://youtu.be/CADHhxAHr6o)
+
+[Routing the accessories panel](https://youtu.be/m_YkWWMEXUo)
+[Routed panel](https://youtu.be/qGLNrDsc6ng)
