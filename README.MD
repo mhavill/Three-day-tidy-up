@@ -20,7 +20,9 @@ I'd love a full sheet machine but i'm limited by space and money!
 
 I decided to dedicate my mobile bench to the machine but to share it with my 3D printer.  This meant the there wasn't sufficient space on the surface of the bench for the controller unit and the various other components attached.  These all had to go on the shelf below.  Even worse, I had to use a separate table to put my laptop on.
 
-![Initial Setup](./images/IMG_3889.HEIC)
+![Initial Setup](./images/IMG_3889.png)
+But then I got a mount for the laptop!
+![Laptop](./images/IMG_3890.png)
 
 [Assembly - part 1](https://youtu.be/Rip-IDQhKRQ)
 [Assembly - part 2](https://youtu.be/sWca06nICo0)
